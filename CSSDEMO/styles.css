@@ -1,0 +1,23 @@
+body {
+    background: lightblue;
+}
+#burger {
+    color: orange;
+}
+#onions {
+    color: green;
+}
+#fries {
+    color: red;
+}
+.strawberry {
+    background: red;
+}
+.blueberry {
+    background: blue;
+}
+/* p {
+    background: blue;
+    padding: 10px;
+} */
+
