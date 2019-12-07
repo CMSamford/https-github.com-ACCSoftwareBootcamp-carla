@@ -7,4 +7,4 @@
 4. between head and body elements
 ```
 
-### Answer:
+### Answer: 1. head

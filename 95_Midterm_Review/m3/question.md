@@ -7,4 +7,4 @@
 4. none of the above
 ```
 
-### Answer:
+### Answer: 1. display: flex;

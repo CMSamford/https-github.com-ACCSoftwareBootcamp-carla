@@ -5,4 +5,4 @@
 3. All of the above.
 4. None of the above.
 
-### Answer:
+### Answer: 3. All of the above.
