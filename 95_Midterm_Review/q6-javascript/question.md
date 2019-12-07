@@ -4,8 +4,6 @@ Write a Javascript loop that will iterate from 40 to 60, both included, and log,
 
 Hint: think about using the modulus operator in Javascript.
 
-<<<<<<< HEAD
-=======
 Answer:
 
 for (var x=40; x<=60; x++) {
@@ -20,4 +18,4 @@ for (var x=40; x<=60; x++) {
         }
 }
 
->>>>>>> 61008e95d58d10d863a3d6af4e399bd465c30597
+
