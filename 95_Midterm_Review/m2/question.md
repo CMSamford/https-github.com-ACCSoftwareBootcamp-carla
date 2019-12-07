@@ -5,5 +5,5 @@
 1. `<body style="background-color: #ffff00>`
 1. `<div color="yellow">Some text</div>`
 
-### Answer:
+### Answer: 3. `<body style="background-color: #ffff00>`
 
