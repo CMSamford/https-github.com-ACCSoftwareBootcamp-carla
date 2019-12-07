@@ -1,10 +1,5 @@
 In JavaScript, how do you append a value to an array?  List 4 ways you can find (you may be able to find more) (25% credit).  
 
-<<<<<<< HEAD
-Provide example code showing the use of each of the methods you list. (40% credit)
-
-How do you remove a particular member from the array?  Provide small sample. (35% credit)
-=======
 Answer: 
 1. push() method can be used to append values to an array;
 2. concat() to add the items of one array to another array;
@@ -56,4 +51,4 @@ console.log(array);
 
 
 
->>>>>>> 61008e95d58d10d863a3d6af4e399bd465c30597
+
