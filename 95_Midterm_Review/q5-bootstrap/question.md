@@ -17,4 +17,4 @@ Please describe what would be the output of the following code snippet on mobile
 ```
 
 Answer: one row and 4 columns of different colors: ruby red, navy blue, lime green, egg nog.
->>>>>>> 61008e95d58d10d863a3d6af4e399bd465c30597
+
