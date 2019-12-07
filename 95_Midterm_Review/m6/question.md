@@ -6,4 +6,4 @@
 4. None of the above.
 ```
 
-### Answer:
+### Answer: 4. None of the above.
